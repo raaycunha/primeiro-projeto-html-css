@@ -122,12 +122,14 @@ main p {
     display: block;
     margin: 0 auto;
     border-radius: 15px;
+    max-width: 360px;
 }
 
 .foto {
     display: block;
     margin: 0 auto;
     border-radius: 15px;
+    max-width: 360px;
     box-shadow: 2px 1px 7px rgba(0, 0, 0, 0.466);
 }
 
@@ -208,7 +210,7 @@ small a:hover {
     color: rgb(17, 46, 17);
 }
 
-@media (max-width: 925px) {
+@media (max-width: 935px) {
     header, main, footer {
         transition: 0.5s;
         border-radius: 0;
