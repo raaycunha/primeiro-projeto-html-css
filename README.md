@@ -1,4 +1,6 @@
-# 👨‍💻 Meu Primeiro Projeto de HTML5 e CSS3! - Projeto do canal CursoemVideo do Gustavo Guanabara!
+# 👨‍💻 Meu Primeiro Projeto de HTML5 e CSS3!
+
+## Projeto do canal CursoemVideo do Gustavo Guanabara!
 
 ## 🌐 Visualize o projeto:
 
