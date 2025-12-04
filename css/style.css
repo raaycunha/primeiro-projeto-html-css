@@ -45,7 +45,7 @@ main a::after {
 }
 
 .titulo {
-    font-size: 2em;
+    font-size: 1.8em;
     margin-bottom: 12px;
     color: white;
     font-family: var(--fonte-titulo1);
